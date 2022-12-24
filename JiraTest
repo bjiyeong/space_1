@@ -1,2 +1,3 @@
 test
 commit
+git commit -m "SPACE-2 <message>"
